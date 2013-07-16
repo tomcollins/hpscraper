@@ -1,0 +1,17 @@
+{
+  "resources": [
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/science/0/rss.xml",
+      "product": "science",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/nature/rss.xml",
+      "product": "nature",
+      "section": null
+    }
+  ]
+}
+

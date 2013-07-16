@@ -1,0 +1,556 @@
+{
+  "resources": [
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/factual/foodanddrink/player/episodes.json",
+      "product": "food",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "product": "news",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/special_reports/rss.xml",
+      "product": "news",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml",
+      "product": "news",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml?edition=uk",
+      "product": "news",
+      "section": "uk"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/england/rss.xml",
+      "product": "news",
+      "section": "england"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+      "product": "news",
+      "section": "northern_ireland"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "product": "news",
+      "section": "scotland"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/wales/rss.xml",
+      "product": "news",
+      "section": "wales"
+    },    
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "product": "news",
+      "section": "world"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+      "product": "news",
+      "section": "uk"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "product": "news",
+      "section": "business"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+      "product": "news",
+      "section": "politics"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/health/rss.xml",
+      "product": "news",
+      "section": "health"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/education/rss.xml",
+      "product": "news",
+      "section": "education"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "product": "news",
+      "section": "science_and_environment"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+      "product": "news",
+      "section": "technology"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "product": "news",
+      "section": "entertainment_and_arts"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/rss.xml?edition=uk",
+      "product": "sport",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/football/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "football"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/cricket/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "cricket"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/rugby-union/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "rugby-union"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/rugby-league/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "rugby-league"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/tennis/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "tennis"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/golf/rss.xml",
+      "product": "sport",
+      "section": "golf"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/formula1/rss.xml",
+      "product": "sport",
+      "section": "formula1"
+    },
+    {
+      "type": "rss",
+      "url": "http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/athletics/rss.xml",
+      "product": "sport",
+      "section": "athletics"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/american-football/rss.xml",
+      "product": "sport",
+      "section": "american-football"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/archery/rss.xml",
+      "product": "sport",
+      "section": "archery"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/badminton/rss.xml",
+      "product": "sport",
+      "section": "badminton"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/baseball/rss.xml",
+      "product": "sport",
+      "section": "baseball"
+    },
+   {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/basketball/rss.xml",
+      "product": "sport",
+      "section": "basketball"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/bowls/rss.xml",
+      "product": "sport",
+      "section": "bowls"
+    },
+    {
+      "type": "rss",
+      "url": "http://newsrss.bbc.co.uk/rss/sportonline_world_edition/boxing/rss.xml",
+      "product": "sport",
+      "section": "boxing"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/canoeing/rss.xml",
+      "product": "sport",
+      "section": "canoeing"
+    },
+   {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/cycling/rss.xml",
+      "product": "sport",
+      "section": "cycling"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/darts/rss.xml",
+      "product": "sport",
+      "section": "darts"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/diving/rss.xml",
+      "product": "sport",
+      "section": "diving"
+    },
+   {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/equestrian/rss.xml",
+      "product": "sport",
+      "section": "equestrian"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/fencing/rss.xml",
+      "product": "sport",
+      "section": "fencing"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/gymnastics/rss.xml",
+      "product": "sport",
+      "section": "gymnastics"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/handball/rss.xml",
+      "product": "sport",
+      "section": "handball"
+    },
+   {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/hockey/rss.xml",
+      "product": "sport",
+      "section": "hockey"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/horse-racing/rss.xml",
+      "product": "sport",
+      "section": "horse-racing"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/ice-hockey/rss.xml",
+      "product": "sport",
+      "section": "ice-hockey"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/judo/rss.xml",
+      "product": "sport",
+      "section": "judo"
+    },
+   {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/modern-pentathlon/rss.xml",
+      "product": "sport",
+      "section": "modern-pentathlon"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/netball/rss.xml",
+      "product": "sport",
+      "section": "netball"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/olympics/2012/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "olympics"
+    },
+   {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/rowing/rss.xml",
+      "product": "sport",
+      "section": "rowing"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/sailing/rss.xml",
+      "product": "sport",
+      "section": "sailing"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/shooting/rss.xml",
+      "product": "sport",
+      "section": "shooting"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/snooker/rss.xml?edition=uk",
+      "product": "sport",
+      "section": "snooker"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/squash/rss.xml",
+      "product": "sport",
+      "section": "squash"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/swimming/rss.xml",
+      "product": "sport",
+      "section": "swimming"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/table-tennis/rss.xml",
+      "product": "sport",
+      "section": "table-tennis"
+    },
+   {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/taekwondo/rss.xml",
+      "product": "sport",
+      "section": "taekwondo"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/triathlon/rss.xml",
+      "product": "sport",
+      "section": "triathlon"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/volleyball/rss.xml",
+      "product": "sport",
+      "section": "volleyball"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/weightlifting/rss.xml",
+      "product": "sport",
+      "section": "weightlifting"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/sport/0/winter-sports/rss.xml",
+      "product": "sport",
+      "section": "winter-sports"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/wrestling/rss.xml",
+      "product": "sport",
+      "section": "wrestling"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/factual/foodanddrink/player/episodes.json",
+      "product": "food",
+      "section": null
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/formats/reality/player/episodes.json",
+      "product": "news",
+      "section": "entertainment_and_arts"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/formats/gamesandquizzes/player/episodes.json",
+      "product": "news",
+      "section": "entertainment_and_arts"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/drama/political/player/episodes.json",
+      "product": "news",
+      "section": "politics"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/topics/scotland/player/episodes.json",
+      "product": "news",
+      "section": "scotland"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/factual/healthandwellbeing/player/episodes.json",
+      "product": "news",
+      "section": "health"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/factual/scienceandnature/player/episodes.json",
+      "product": "news",
+      "section": "science_and_environment"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/factual/money/player/episodes.json",
+      "product": "news",
+      "section": "business"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/weather/player/episodes.json",
+      "product": "weather",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/arsenal/rss.xml",
+      "product": "sport",
+      "section": "arsenal"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/aston-villa/rss.xml",
+      "product": "sport",
+      "section": "aston-villa"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/cardiff-city/rss.xml",
+      "product": "sport",
+      "section": "cardiff-city"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/chelsea/rss.xml",
+      "product": "sport",
+      "section": "chelsea"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/crystal-palace/rss.xml",
+      "product": "sport",
+      "section": "crystal-palace"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/everton/rss.xml",
+      "product": "sport",
+      "section": "everton"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/fulham/rss.xml",
+      "product": "sport",
+      "section": "fulham"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/hull-city/rss.xml",
+      "product": "sport",
+      "section": "hull-city"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/liverpool/rss.xml",
+      "product": "sport",
+      "section": "liverpool"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/manchester-united/rss.xml",
+      "product": "sport",
+      "section": "manchester-united"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/newcastle-united/rss.xml",
+      "product": "sport",
+      "section": "newcastle-united"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/norwich-city/rss.xml",
+      "product": "sport",
+      "section": "norwich-city"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/southampton/rss.xml",
+      "product": "sport",
+      "section": "southampton"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/stoke-city/rss.xml",
+      "product": "sport",
+      "section": "stoke-city"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/sunderland/rss.xml",
+      "product": "sport",
+      "section": "sunderland"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/swansea-city/rss.xml",
+      "product": "sport",
+      "section": "swansea-city"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/tottenham-hotspur/rss.xml",
+      "product": "sport",
+      "section": "tottenham-hotspur"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/west-bromwich-albion/rss.xml",
+      "product": "sport",
+      "section": "west-bromwich-albion"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/sport/football/teams/west-ham-united/rss.xml",
+      "product": "sport",
+      "section": "west-ham-united"
+    },
+    {
+      "type": "rss",
+      "url": "http://www.bbc.co.uk/science/0/rss.xml",
+      "product": "science",
+      "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/nature/rss.xml",
+      "product": "nature",
+      "section": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "hpscraper",
+  "description": "HP Scraper",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "subdomain": "mvtapi",
+  "dependencies": {
+    "optimist": "0.5",
+    "feedparser": "0.16",
+    "request": "2.22"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}

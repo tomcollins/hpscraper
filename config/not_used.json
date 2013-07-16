@@ -1,0 +1,30 @@
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/sport/tennis/player/episodes.json",
+      "product": "sport",
+      "section": "tennis"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/sport/cycling/player/episodes.json",
+      "product": "sport",
+      "section": "cycling"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/sport/rugbyunion/player/episodes.json",
+      "product": "sport",
+      "section": "rugby-union"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/sport/rugbyleague/player/episodes.json",
+      "product": "sport",
+      "section": "rugby-league"
+    },
+    {
+      "type": "schedule",
+      "url": "http://www.bbc.co.uk/programmes/genres/sport/golf/player/episodes.json",
+      "product": "sport",
+      "section": "golf"
+    },
