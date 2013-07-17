@@ -551,6 +551,18 @@
       "url": "http://feeds.bbci.co.uk/nature/rss.xml",
       "product": "nature",
       "section": null
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/magazine/rss.xml",
+      "product": "news",
+      "section": "magazine"
+    },
+    {
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml",
+      "product": "news",
+      "section": "also_in_the_news"
     }
   ]
 }
