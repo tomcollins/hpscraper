@@ -158,7 +158,7 @@
     },
     {
       "type": "rss",
-      "url": "http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/athletics/rss.xml",
+      "url": "http://feeds.bbci.co.uk/sport/0/athletics/rss.xml",
       "product": "sport",
       "section": "athletics"
     },
